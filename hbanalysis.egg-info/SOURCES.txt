@@ -1,0 +1,10 @@
+README.md
+setup.py
+hbanalysis/__init__.py
+hbanalysis/hbanalysis.py
+hbanalysis/na_seq.py
+hbanalysis.egg-info/PKG-INFO
+hbanalysis.egg-info/SOURCES.txt
+hbanalysis.egg-info/dependency_links.txt
+hbanalysis.egg-info/requires.txt
+hbanalysis.egg-info/top_level.txt

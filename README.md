@@ -9,7 +9,7 @@
 # Deactivate
 `conda deactivate`
 
-# Install bentdna package
+# Install HBAnalysis package
 `pip install -e .`
 
 # Upgrade package

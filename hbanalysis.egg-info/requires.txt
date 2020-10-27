@@ -1,0 +1,5 @@
+MDAnalysis
+matplotlib
+pandas
+scipy
+h5py

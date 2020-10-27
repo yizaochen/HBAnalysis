@@ -10,6 +10,7 @@ setup(name='hbanalysis',
           'MDAnalysis',
           'matplotlib',
           'pandas',
-          'scipy'
+          'scipy',
+          'h5py'
       ]
       )
